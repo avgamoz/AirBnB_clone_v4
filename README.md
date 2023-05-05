@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Emmanuel Solomon - [Github](https://github.com/emmasolo)
+Emmanuel Solomon - [Github](https://github.com/Kis123mas)
 Akinsola Babajide - [Github](https://github.com/avgamoz)
 
 
